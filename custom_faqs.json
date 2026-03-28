@@ -1,0 +1,14 @@
+[
+    {
+        "question": "Which programming languages are recommended for the IE300 internship?",
+        "answer": "While the official manual doesn't strictly mandate a language, students highly recommend knowing Python or C++ for data analysis and embedded systems projects during production internships."
+    },
+    {
+        "question": "Can I do my summer practice at a company outside of Türkiye?",
+        "answer": "Yes, international internships are allowed, but you must ensure the company meets the specific IE300 or IE400 criteria and you must handle your own insurance processes as the school's SGK coverage is typically limited to Türkiye."
+    },
+    {
+        "question": "What happens if I miss the report submission deadline?",
+        "answer": "Missing the deadline usually results in an 'U' (Unsatisfactory) grade for the summer practice course. You will likely have to repeat the internship the following summer."
+    }
+]
