@@ -10,5 +10,17 @@
     {
         "question": "What happens if I miss the report submission deadline?",
         "answer": "Missing the deadline usually results in an 'U' (Unsatisfactory) grade for the summer practice course. You will likely have to repeat the internship the following summer."
+    },
+    {
+        "question": "Can I do IE300 and IE400 summer practices during one summer break?",
+        "answer": "If you are graduating the next term after the summer break and you only have summer practice courses left, you can do two compulsory internships within the same summer break. If not, you can not do two compulsory internships in the same break."
+    },
+    {
+        "question": "What happens if my report is not accepted after the corrections?",
+        "answer": "You have to retake the compulsary internship course."
+    },
+    {
+        "question": "Can I do IE300 after finishing 3rd grade and IE400 after finishing 4th grade?",
+        "answer": "If you passed the required courses for the internships you can conduct them."
     }
 ]

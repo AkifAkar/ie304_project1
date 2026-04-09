@@ -8,7 +8,7 @@ from langchain_core.prompts import ChatPromptTemplate
 
 # 1. Set up your Gemini API Key
 # Replace this with your actual key from Google AI Studio
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBqjXBqkp2brM0zFbwlO6DIYnWPa3GqSBs"
+os.environ["GOOGLE_API_KEY"] = "AIzaSyB53Uo2ykw-pQ2V_A9slaZ_2OafZJn31zs"
 
 def setup_rag_pipeline(db_dir):
     # 2. Re-load the embedding model and the local database
@@ -57,7 +57,7 @@ if __name__ == "__main__":
     
     # Let's test it with a sample query from your project instructions
     print("\n--- METU IE Summer Practice Bot ---")
-    question = "Which programming languages are recommended?"
+    question = "When is the match between real and barca?"
     print(f"User: {question}")
     
     # Invoke the chain
