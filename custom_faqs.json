@@ -22,5 +22,749 @@
     {
         "question": "Can I do IE300 after finishing 3rd grade and IE400 after finishing 4th grade?",
         "answer": "If you passed the required courses for the internships you can conduct them."
+    },
+    {
+        "question": "What is IE300 Summer Practice?",
+        "answer": "It is a compulsory internship course that provides practical industrial experience."
+    },
+    {
+        "question": "Who are the members of the Summer Practice Committee?",
+        "answer": "The committee includes Prof. Dr. Esra Karasakal, Prof. Dr. Cem İyigün, Çiya Aydoğan, Buğra Öztürk, ÖmerTuranŞahinaslan, Özgür Ünverdi Mehmet Sencer Zengin."
+    },
+    {
+        "question": "Who is responsible for IE300 internship coordination?",
+        "answer": "You can reach to Prof. Dr. Esra Karasakal, Prof. Dr. Cem İyigün, Çiya Aydoğan, Buğra Öztürk, ÖmerTuranŞahinaslan, Özgür Ünverdi Mehmet Sencer Zengin."
+    },
+    {
+        "question": "What is the IE300 website?",
+        "answer": "http://sp.ie.metu.edu.tr"
+    },
+    {
+        "question": "What is the contact email for IE300?",
+        "answer": "ie-staj@metu.edu.tr"
+    },
+    {
+        "question": "Who receives emails sent to ie-staj@metu.edu.tr?",
+        "answer": "All Summer Practice Committee members receive the emails."
+    },
+    {
+        "question": "What are the prerequisites for IE300?",
+        "answer": "IE102, IE251, IE265, IE241, OHS101, and one of IE266 or IE252 with at least DD."
+    },
+    {
+        "question": "Can I do IE300 if I failed a prerequisite?",
+        "answer": "No, all prerequisite courses must be passed with at least DD."
+    },
+    {
+        "question": "Can I do IE300 if I am on probation?",
+        "answer": "No, students on probation in Fall cannot take IE300."
+    },
+    {
+        "question": "Is IE300 mandatory?",
+        "answer": "Yes, it is a compulsory course."
+    },
+    {
+        "question": "Is IE300 a credit course?",
+        "answer": "No, it is a non-credit course."
+    },
+    {
+        "question": "What grade is required to pass IE300?",
+        "answer": "You must receive an S (satisfactory) grade."
+    },
+    {
+        "question": "What experience does IE300 provide?",
+        "answer": "It provides professional experience in a company and exposure to real operations."
+    },
+    {
+        "question": "What can I observe during IE300?",
+        "answer": "Supply chain, manufacturing processes, sustainability, cost accounting, and data analysis."
+    },
+    {
+        "question": "When should I do IE300?",
+        "answer": "During Summer 2026."
+    },
+    {
+        "question": "What are the internship dates?",
+        "answer": "Between June 25 and September 26."
+    },
+    {
+        "question": "Can IE300 overlap with summer school?",
+        "answer": "No, it cannot overlap."
+    },
+    {
+        "question": "What is the minimum duration of IE300?",
+        "answer": "20 workdays."
+    },
+    {
+        "question": "Can I do IE300 and IE400 in the same summer?",
+        "answer": "Yes, if you are in graduation status. Otherwise you cannot do IE300 and IE400 in the same summer"
+    },
+    {
+        "question": "When should I register for IE300?",
+        "answer": "In the immediate academic term after completing the internship."
+    },
+    {
+        "question": "When is the report deadline?",
+        "answer": "Within the first 4 weeks of the semester, for example October 24, 2026."
+    },
+    {
+        "question": "What are the steps of IE300?",
+        "answer": "Find a company, evaluate, apply, get insurance, complete internship, submit report."
+    },
+    {
+        "question": "What types of companies are accepted?",
+        "answer": "Manufacturing companies such as automotive, electronics, textiles, and similar industries."
+    },
+    {
+        "question": "Are batch process industries allowed?",
+        "answer": "Yes, industries like steel, paper, pharmaceutical, and food are allowed."
+    },
+    {
+        "question": "Which industries are not allowed?",
+        "answer": "Continuous process industries and service industries are not allowed."
+    },
+    {
+        "question": "Are service companies allowed?",
+        "answer": "No, hospitals, banks, and similar services are not accepted."
+    },
+    {
+        "question": "Are continuous production industries allowed?",
+        "answer": "No, industries like cement and sugar are not allowed."
+    },
+    {
+        "question": "Does the department provide internship opportunities?",
+        "answer": "Yes, opportunities are listed on the SP website."
+    },
+    {
+        "question": "Do I need to apply to companies myself?",
+        "answer": "Yes, you are responsible for applying."
+    },
+    {
+        "question": "Can the department assign a company?",
+        "answer": "Yes, in some cases they may assign students."
+    },
+    {
+        "question": "Can I do the internship online?",
+        "answer": "No, it must be face-to-face."
+    },
+    {
+        "question": "Is hybrid internship allowed?",
+        "answer": "No, only physical internships are allowed."
+    },
+    {
+        "question": "How should I evaluate a company?",
+        "answer": "Check employees, engineers, production capacity, and systems."
+    },
+    {
+        "question": "Who decides if a company is suitable?",
+        "answer": "Students are responsible for evaluating suitability."
+    },
+    {
+        "question": "Does the department approve companies beforehand?",
+        "answer": "No, they do not confirm suitability in advance."
+    },
+    {
+        "question": "What documents are needed to apply?",
+        "answer": "Application form and possibly a protocol form."
+    },
+    {
+        "question": "What is the internship protocol form?",
+        "answer": "It is a contract document required by some companies."
+    },
+    {
+        "question": "How do I apply for insurance?",
+        "answer": "Via METU OCW platform."
+    },
+    {
+        "question": "When should I apply for insurance?",
+        "answer": "2 to 3 weeks before the internship."
+    },
+    {
+        "question": "Is insurance mandatory?",
+        "answer": "Yes, it is compulsory."
+    },
+    {
+        "question": "Does METU provide insurance?",
+        "answer": "Yes, for all compulsory internships."
+    },
+    {
+        "question": "Can I get the insurance document from e-devlet?",
+        "answer": "Yes, before the internship starts."
+    },
+    {
+        "question": "What if the company provides insurance?",
+        "answer": "Then you do not apply through METU."
+    },
+    {
+        "question": "Can I do internship abroad?",
+        "answer": "Yes, insurance is also provided abroad."
+    },
+    {
+        "question": "What forms are required after internship?",
+        "answer": "Evaluation form and employer survey form."
+    },
+    {
+        "question": "Who fills the evaluation form?",
+        "answer": "The company fills it."
+    },
+    {
+        "question": "Where are forms sent?",
+        "answer": "They are emailed to sp-belge@metu.edu.tr."
+    },
+    {
+        "question": "How should I write the report?",
+        "answer": "Based on the IE300 manual and with full explanations."
+    },
+    {
+        "question": "Do I need to answer all report questions?",
+        "answer": "Yes, all questions must be answered."
+    },
+    {
+        "question": "Can I submit only figures or tables?",
+        "answer": "No, explanations and analysis are required."
+    },
+    {
+        "question": "Where do I submit the report?",
+        "answer": "On ODTUClass as a PDF file."
+    },
+    {
+        "question": "What is the plagiarism limit?",
+        "answer": "Similarity must be less than 20 percent."
+    },
+    {
+        "question": "When should I start writing the report early?",
+        "answer": "Yes, you can start during the internship."
+    },
+    {
+        "question": "What if I get paid during internship?",
+        "answer": "You must submit a paid internship form and bank receipt."
+    },
+    {
+        "question": "Can I do a voluntary internship?",
+        "answer": "Yes, for additional experience."
+    },
+    {
+        "question": "How long is voluntary internship insurance?",
+        "answer": "Up to one month."
+    },
+    {
+        "question": "Does candidate engineering count for IE300?",
+        "answer": "No, unless done in summer for 20 consecutive workdays."
+    },
+    {
+        "question": "Where should I ask questions?",
+        "answer": "Email ie-staj@metu.edu.tr."
+    },
+    {
+        "question": "Who are the members of the Summer Practice Committee?",
+        "answer": "The Summer Practice Committee members are Prof. Dr. Cem İyigün, Prof. Dr. Esra Karasakal, Çiya Aydoğan, Buğra Öztürk, Ömer Turan Şahinaslan, Özgür Ünverdi, and Mehmet Sencer Zengin."
+    },
+    {
+        "question": "Which professors are responsible for IE400 summer practice?",
+        "answer": "The professors in the Summer Practice Committee are Prof. Dr. Cem İyigün and Prof. Dr. Esra Karasakal. They are part of the committee responsible for the IE400 summer practice process."
+    },
+    {
+        "question": "Who can I contact about IE400 summer practice?",
+        "answer": "You can contact the Summer Practice Committee for questions about IE400 summer practice. The Summer Practice Committee members are Prof. Dr. Cem İyigün, Prof. Dr. Esra Karasakal, Çiya Aydoğan, Buğra Öztürk, Ömer Turan Şahinaslan, Özgür Ünverdi, and Mehmet Sencer Zengin."
+    },
+    {
+        "question": "What is the official IE400 website?",
+        "answer": "You can access official information about IE400 summer practice through the Summer Practice website at http://sp-ie.metu.edu.tr. This website is the main source for announcements, forms, manuals, and internship-related updates."
+    },
+    {
+        "question": "Where can I access IE400 announcements and forms?",
+        "answer": "You can access IE400 announcements, forms, manuals, and other official internship information through the Summer Practice website at http://sp-ie.metu.edu.tr. It is recommended to check this website regularly throughout the internship process."
+    },
+    {
+        "question": "What is the official contact email for IE400?",
+        "answer": "The official contact email for IE400 summer practice is ie-staj@metu.edu.tr. You can use this address for questions and comments after checking the website and slide set first."
+    },
+    {
+        "question": "Does the contact email reach all committee members?",
+        "answer": "Yes. The presentation states that the contact email ie-staj@metu.edu.tr includes all committee members, so messages sent there reach the full Summer Practice Committee."
+    },
+    {
+        "question": "What are the prerequisites for IE400?",
+        "answer": "To be eligible for IE400, you must complete IE300, IE252, IE323, and IE333, and you must also complete any two courses from the following set: IE304, IE324, IE372, and IE368. Each prerequisite course must be completed with a grade of at least DD."
+    },
+    {
+        "question": "Do I need to complete IE300 before IE400?",
+        "answer": "Yes. IE300 is explicitly listed as one of the prerequisites for IE400, so you must complete IE300 before conducting IE400 summer practice."
+    },
+    {
+        "question": "Which courses must I pass before starting IE400?",
+        "answer": "Before starting IE400, you need to pass IE300, IE252, IE323, IE333, and any two of the following: IE304, IE324, IE372, and IE368. The presentation states that these courses must be completed with a grade of DD or higher."
+    },
+    {
+        "question": "How many elective prerequisite courses are required for IE400?",
+        "answer": "You must complete any two courses from the prerequisite set consisting of IE304, IE324, IE372, and IE368."
+    },
+    {
+        "question": "Can I do IE400 if one prerequisite grade is below DD?",
+        "answer": "No. The presentation clearly states that if any one of the prerequisite courses is not completed with a grade of at least DD, IE400 cannot be conducted."
+    },
+    {
+        "question": "When can I do IE400?",
+        "answer": "You will normally conduct IE400 summer practice in Summer 2026. The presentation gives the available time interval as approximately June 25 to September 26."
+    },
+    {
+        "question": "What are the official IE400 summer practice dates?",
+        "answer": "The presentation states that the available period for IE400 summer practice in Summer 2026 is approximately from June 25 to September 26."
+    },
+    {
+        "question": "Can IE400 overlap with summer school?",
+        "answer": "No. If you attend summer school, your IE400 summer practice period must not overlap with your summer school courses."
+    },
+    {
+        "question": "What is the minimum duration of IE400?",
+        "answer": "The minimum duration of IE400 summer practice is 20 workdays, which is about 4 weeks. However, the presentation also notes that the internship can last longer if the company requests it."
+    },
+    {
+        "question": "Can the internship last longer than 20 workdays?",
+        "answer": "Yes. The presentation says that 20 workdays is the minimum duration, but the internship period may be longer if the company requests a longer duration."
+    },
+    {
+        "question": "Can I do IE400 during winter break?",
+        "answer": "Yes, you can conduct IE400 during the semester break in winter as well, but only if there are at least 20 available workdays within that break."
+    },
+    {
+        "question": "Can I do IE300 and IE400 in the same summer?",
+        "answer": "Yes. If you are in graduation status and have completed all your coursework, you may conduct both IE300 and IE400 in succession during Summer 2026."
+    },
+    {
+        "question": "When should I register for IE400?",
+        "answer": "After completing your summer practice, you must register for IE400 in the immediate following academic term. This is Fall 2026-2027."
+    },
+    {
+        "question": "Do I register for IE400 in the same summer or the following semester?",
+        "answer": "You register in the immediate following academic term after completing the internship, not during the summer itself. this term is Fall 2026-2027."
+    },
+    {
+        "question": "When is the IE400 report due date?",
+        "answer": "The presentation states that summer practice reports are due within the first 4 weeks of the registered academic term, and the due date given is October 24, 2026."
+    },
+    {
+        "question": "How long do I have to submit the report after registration?",
+        "answer": "You are expected to submit the report within the first 4 weeks of the academic term in which you register for IE400."
+    },
+    {
+        "question": "What are the steps to follow in IE400?",
+        "answer": "The general process is: search for alternative companies, get approval from the SP Committee if you want to do a project-based summer practice, apply to the company, apply for insurance, conduct your summer practice, and finally submit your report to the SP Committee."
+    },
+    {
+        "question": "Do I need committee approval for project-based summer practice?",
+        "answer": "Yes. If you want to conduct a project-based summer practice, the process includes getting approval from the Summer Practice Committee before continuing."
+    },
+    {
+        "question": "What should I do before applying for insurance?",
+        "answer": "Before applying for insurance, you should first identify a suitable company, complete any required approval if your internship is project-based, apply to the company, and receive acceptance from the company. Insurance should be arranged after your internship place is confirmed."
+    },
+    {
+        "question": "What happens if the company does not accept me?",
+        "answer": "If a company does not accept you, you should continue searching for alternative companies and repeat the application process until you secure an accepted internship placement."
+    },
+    {
+        "question": "What types of companies are suitable for IE400?",
+        "answer": "The presentation lists manufacturing firms as suitable examples, including automotive, machine parts, electronics, furniture, textiles, and consumer durables. It also states that batch process industries such as steel, paper mills, pharmaceutical, and food and beverages are accepted."
+    },
+    {
+        "question": "Are manufacturing companies accepted for IE400?",
+        "answer": "Yes. Manufacturing firms are explicitly listed as appropriate companies for IE400 summer practice in the presentation."
+    },
+    {
+        "question": "Is an automotive company acceptable for IE400?",
+        "answer": "Yes. Automotive companies are listed among the manufacturing firms that are suitable for IE400 summer practice."
+    },
+    {
+        "question": "Is a pharmaceutical company acceptable for IE400?",
+        "answer": "Yes. Pharmaceutical companies are included under accepted batch process industries in the presentation."
+    },
+    {
+        "question": "Are batch process industries allowed?",
+        "answer": "Yes. The presentation states that batch process industries are also accepted, and it gives examples such as steel, paper mills, pharmaceutical, and food and beverages."
+    },
+    {
+        "question": "Can I do IE400 in food and beverage production?",
+        "answer": "Yes. Food and beverages are listed among the accepted batch process industries, so this type of company is acceptable according to the presentation."
+    },
+    {
+        "question": "Are continuous process industries accepted?",
+        "answer": "No. The presentation lists continuous process industries such as cement, concrete, sugar, and flour mill among the types that are not appropriate for IE400 summer practice."
+    },
+    {
+        "question": "Can I do IE400 in cement or sugar industry?",
+        "answer": "No. Cement, concrete, sugar, and flour mill are listed as continuous process industries, and these are presented as unsuitable for IE400 summer practice."
+    },
+    {
+        "question": "Are hospitals acceptable for IE400?",
+        "answer": "Hospitals are listed under service industries in the presentation. Since the presentation separately discusses how internships may be conducted in service companies, students should be careful and, if there is uncertainty about suitability, discuss the company with the SP Committee."
+    },
+    {
+        "question": "Are hotels or banks acceptable for IE400?",
+        "answer": "Hotels and banks are listed under service industries in the presentation. Because company suitability is ultimately determined by the student with guidance from the manual and optional consultation with the SP Committee, it is best to confirm uncertain cases with the committee."
+    },
+    {
+        "question": "Are public institutions acceptable for IE400?",
+        "answer": "Public institutions are listed under service industries in the presentation. If you are considering such a place, you should carefully compare it with the IE400 manual and discuss it with the SP Committee if you are unsure."
+    },
+    {
+        "question": "Are NGOs acceptable for IE400?",
+        "answer": "NGOs are listed under service industries in the presentation. If you are considering an NGO, you should evaluate whether you can answer the IE400 manual questions properly and consult the SP Committee if needed."
+    },
+    {
+        "question": "Can I do IE400 in a research organization like ODTÜ Teknokent?",
+        "answer": "Research organizations such as ODTÜ Teknokent are listed under service industries in the presentation. If you are considering such an organization, you should evaluate the fit carefully using the IE400 manual and discuss it with the SP Committee if you are not sure."
+    },
+    {
+        "question": "Does the department announce internship opportunities?",
+        "answer": "Yes. The presentation says that the department will list some firms that students can apply to for summer practice."
+    },
+    {
+        "question": "Where can I find SP opportunities?",
+        "answer": "You can find internship opportunities on the Summer Practice website under the SP Opportunities section. The presentation advises students to check this part of the website regularly for updates."
+    },
+    {
+        "question": "Do I need to check the website regularly?",
+        "answer": "Yes. The presentation clearly states that it is your responsibility to check updates from the SP website regularly, especially the SP Opportunities section."
+    },
+    {
+        "question": "Will the department assign me to a company?",
+        "answer": "In some cases, yes. The presentation explains that depending on the conditions of the company, either the department may assign students or students may need to contact the firms and make their own arrangements."
+    },
+    {
+        "question": "Do I sometimes need to contact the company myself?",
+        "answer": "Yes. For some internship opportunities, you are expected to contact the company yourself and arrange the internship directly."
+    },
+    {
+        "question": "Can IE400 be done online?",
+        "answer": "The format depends on the company type. For manufacturing companies, the summer practice must be fully face-to-face in the plant. For service companies, the practice may be either face-to-face or hybrid."
+    },
+    {
+        "question": "Is hybrid internship allowed in IE400?",
+        "answer": "Yes, but only in service companies. The presentation states that service-company summer practice can be conducted either face-to-face or in a hybrid format."
+    },
+    {
+        "question": "Does the format depend on company type?",
+        "answer": "Yes. According to the presentation, internships in manufacturing companies must be fully face-to-face in the plant, while internships in service companies may be either face-to-face or hybrid."
+    },
+    {
+        "question": "If I intern at a manufacturing company, must it be fully face-to-face?",
+        "answer": "Yes. The presentation says that if your summer practice is in a manufacturing company, it must be conducted totally in the company plant in a face-to-face format."
+    },
+    {
+        "question": "If I intern at a service company, can it be hybrid?",
+        "answer": "Yes. The presentation states that for service companies, the summer practice can be conducted either face-to-face or hybrid."
+    },
+    {
+        "question": "How should I evaluate a company for IE400?",
+        "answer": "You should first check the IE400 manual and see whether you can answer its questions without much difficulty. You should also examine the company in terms of number of employees, number of engineers and industrial engineers, production capacity, and information systems such as ERP."
+    },
+    {
+        "question": "Where can I find the IE400 manual?",
+        "answer": "You can find the IE400 manual on the Summer Practice website, under the Documents/Forms tab. It should be reviewed before you decide whether a company is suitable."
+    },
+    {
+        "question": "What should I check before deciding on a company?",
+        "answer": "Before deciding on a company, you should check whether the company allows you to answer the IE400 manual questions properly. You should also examine practical aspects such as the number of employees, the number of engineers and industrial engineers, production capacity, and the company’s information systems."
+    },
+    {
+        "question": "Should I look at the number of engineers and ERP systems?",
+        "answer": "Yes. The presentation specifically recommends checking how many engineers and industrial engineers the company has, as well as the company’s information system, such as ERP."
+    },
+    {
+        "question": "Does the department approve my company beforehand?",
+        "answer": "No. The presentation states that the department does not examine and confirm the suitability of your summer practice company in advance."
+    },
+    {
+        "question": "Who decides whether my company is suitable?",
+        "answer": "The student is responsible for determining whether the company is appropriate. The presentation explains that the questions in the SP manual provide useful guidance for this decision."
+    },
+    {
+        "question": "What should I do if I am not sure about my company?",
+        "answer": "If you are unsure or do not feel comfortable about the appropriateness of a company, you should discuss it with the SP Committee."
+    },
+    {
+        "question": "Can I ask the SP Committee for guidance about company suitability?",
+        "answer": "Yes. Although the committee does not approve companies in advance, the presentation says you can discuss the company with the SP Committee if you are uncertain."
+    },
+    {
+        "question": "What is the SP Application Form?",
+        "answer": "The SP Application Form is an official document that some companies request. It explains the purpose of the summer practice, the minimum duration, and that the insurance for the internship will be paid by METU."
+    },
+    {
+        "question": "Where can I download the SP Application Form?",
+        "answer": "You can download the form called 'SP Application Form (Staj Başvuru Belgesi)' from the Summer Practice website under the Documents/Forms tab after logging in with your ID and password."
+    },
+    {
+        "question": "Do I need to log in to the SP website to download forms?",
+        "answer": "Yes. The presentation specifically states that students should log in with their ID and password at the SP website in order to download the SP Application Form."
+    },
+    {
+        "question": "Can I apply to more than one company?",
+        "answer": "Yes. The presentation clearly says that you can apply to more than one company."
+    },
+    {
+        "question": "Do I need a separate application form for each company?",
+        "answer": "Yes. If you apply to more than one company, you must fill out a separate SP Application Form for each company."
+    },
+    {
+        "question": "What is the SP Protocol form?",
+        "answer": "The SP Protocol form is a contract-type document that some companies may request during the internship application process. A sample version is available on the Summer Practice website."
+    },
+    {
+        "question": "Where can I find a sample protocol?",
+        "answer": "You can find a sample SP Protocol on the Summer Practice website under the Documents/Forms tab."
+    },
+    {
+        "question": "Where should I submit the protocol form?",
+        "answer": "After filling out the protocol form, you should leave it at the Undergraduate Secretary Office in room IE128."
+    },
+    {
+        "question": "How long does it take to get the protocol signed?",
+        "answer": "The presentation says that you can pick up the signed protocol form in about one week."
+    },
+    {
+        "question": "What documents do I send to the company after signing?",
+        "answer": "You should deliver the signed SP Application Form to the company, along with any other documents they require from you, such as your CV."
+    },
+    {
+        "question": "How do I apply for IE400 insurance?",
+        "answer": "Once you are accepted by the company and your internship decision is final, you should apply for SGK insurance through the METU OpenCourseWare platform at https://ocw.metu.edu.tr by filling out the relevant questionnaire."
+    },
+    {
+        "question": "When should I apply for SGK insurance?",
+        "answer": "You should apply for SGK insurance after you are accepted by the company and your internship place is certain. The presentation says the application should be completed about 2 weeks before the beginning of your summer practice."
+    },
+    {
+        "question": "Which platform is used for the insurance application?",
+        "answer": "The insurance application is made through METU OpenCourseWare, also called OCW, at https://ocw.metu.edu.tr."
+    },
+    {
+        "question": "What is the Declaration Form for students with or without family health insurance?",
+        "answer": "It is a form that you must download from the Summer Practice website, fill out, and upload to OCW as part of your insurance application process."
+    },
+    {
+        "question": "Do I need to upload the Declaration Form to OCW?",
+        "answer": "Yes. The presentation states that you should fill out the Declaration Form and upload it to OCW together with your insurance application process."
+    },
+    {
+        "question": "Can I get the insurance start document from e-devlet?",
+        "answer": "Yes. You can get a copy of the 'Sigortalı İşe Başlama Belgesi' from e-devlet when it becomes ready before your internship starts."
+    },
+    {
+        "question": "Where can I find detailed SGK application steps?",
+        "answer": "For detailed steps and explanations about applying for SGK insurance through METU OCW, you should visit the Summer Practice website and check the General Information tab."
+    },
+    {
+        "question": "What type of insurance is provided for IE400?",
+        "answer": "The compulsory insurance for IE400 is work accident and occupational disease insurance, referred to in Turkish as 'iş kazası ve meslek hastalığı sigortası.'"
+    },
+    {
+        "question": "Which law regulates the internship insurance?",
+        "answer": "The presentation refers to Law No. 5510, 'Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu,' as the legal basis for the compulsory insurance."
+    },
+    {
+        "question": "Does METU insure all IE400 students?",
+        "answer": "Yes. The presentation states that METU provides insurance for all summer practice students upon application."
+    },
+    {
+        "question": "How long does the compulsory insurance cover last?",
+        "answer": "For compulsory summer practices, the insurance is arranged for a period between 20 workdays and 3 months, depending on the internship duration."
+    },
+    {
+        "question": "Is voluntary internship insurance different?",
+        "answer": "Yes. For voluntary summer practices, insurance is made for at most one month and only for one organization."
+    },
+    {
+        "question": "Is insurance available for internships abroad?",
+        "answer": "Yes. The presentation clearly states that insurance is also arranged for summer practices abroad."
+    },
+    {
+        "question": "What if the company already insures me?",
+        "answer": "If the company insures you for the internship period, then you are not insured by the university and you do not need to apply to METU for insurance."
+    },
+    {
+        "question": "Can IE400 be done individually?",
+        "answer": "Yes. The presentation states that IE400 can be conducted individually, and in that case the minimum required duration is at least 20 workdays."
+    },
+    {
+        "question": "Can two students do IE400 together?",
+        "answer": "Yes. A group of two students can complete IE400 together, but the internship must still last at least 20 workdays, and each student must write his or her own report."
+    },
+    {
+        "question": "If two students work together, do they submit one report or separate reports?",
+        "answer": "They submit separate reports. The presentation explicitly says that in a group of two students, each student writes his or her own report."
+    },
+    {
+        "question": "Does a group internship need to be more involved?",
+        "answer": "Yes. The presentation notes that when two students complete the internship as a group, the project or problem studied should be much more involved."
+    },
+    {
+        "question": "When should the SP Committee be notified for a group internship?",
+        "answer": "If the internship is done as a group of two students, the SP Committee should be notified in the first week of the practice."
+    },
+    {
+        "question": "What is a project-based summer practice?",
+        "answer": "A project-based summer practice is a special form of IE400 internship that focuses on a project or problem. It has different content and format requirements compared with regular summer practice, and the details are explained in the manual."
+    },
+    {
+        "question": "How long must a project-based IE400 last?",
+        "answer": "A project-based IE400 summer practice must last at least 6 weeks."
+    },
+    {
+        "question": "Do I need proposal approval before a project-based internship starts?",
+        "answer": "Yes. The presentation states that a two-page proposal must be approved by the SP Committee before the project-based summer practice begins."
+    },
+    {
+        "question": "Which forms are needed at the end of IE400?",
+        "answer": "At the end of IE400, the relevant forms are the Evaluation Form and the Employer Survey Form, which are available under the Documents/Forms tab."
+    },
+    {
+        "question": "What are Başarı Belgesi and İşveren Anketi?",
+        "answer": "These are the two pages that together make up the Evaluation Form and Employer Survey Form. They are documents that must be completed at the end of the internship process."
+    },
+    {
+        "question": "Do I need to attach a photo to the evaluation form?",
+        "answer": "Yes. The presentation states that you should attach a recent photograph of yourself to the first page of the evaluation package."
+    },
+    {
+        "question": "Who fills the evaluation form at the end of IE400?",
+        "answer": "The company fills out the forms at the end of your summer practice."
+    },
+    {
+        "question": "Where should the company send the completed forms?",
+        "answer": "After completing the forms at the end of your internship, the company should send them by email to sp-belge@metu.edu.tr."
+    },
+    {
+        "question": "Do I need to look for a Systems Design Project during IE400?",
+        "answer": "Yes. The presentation says that during your summer practice, you are required to search for a Systems Design Project."
+    },
+    {
+        "question": "Why is IE400 useful for finding a Systems Design Project?",
+        "answer": "The presentation explains that summer practice is a good opportunity to identify interesting and challenging real-life problems in a company, which can later become Systems Design Project topics."
+    },
+    {
+        "question": "Should I ask engineers about possible project topics during IE400?",
+        "answer": "Yes. The presentation recommends asking engineers about potential challenging problems so that you can identify a suitable and interesting Systems Design Project."
+    },
+    {
+        "question": "Which committee should I contact for an SD project idea?",
+        "answer": "Once you identify an interesting and challenging problem, you should check it with the SD Committee, not the SP Committee."
+    },
+    {
+        "question": "Should I ask the SP Committee or the SD Committee about project suitability?",
+        "answer": "For Systems Design Project suitability, you should contact the SD Committee, not the SP Committee. The SP Committee handles the summer practice process, while the SD Committee is the right body for project-topic suitability."
+    },
+    {
+        "question": "Where do I submit the IE400 report?",
+        "answer": "You are required to upload your IE400 summer practice report and questionnaire to ODTUClass at the beginning of the following semester, before the announced deadline."
+    },
+    {
+        "question": "Does the report include more than one section?",
+        "answer": "Yes. The presentation states that the report consists of two main sections."
+    },
+    {
+        "question": "What are the sections of the IE400 report?",
+        "answer": "The report consists of two separately graded sections: the 'Questions' section and the 'Problem/Project' section."
+    },
+    {
+        "question": "Are the sections of the IE400 report graded separately?",
+        "answer": "Yes. The presentation explicitly states that the 'Questions' and 'Problem/Project' sections are graded separately."
+    },
+    {
+        "question": "Do I need an S in both sections to pass IE400?",
+        "answer": "Yes. To pass IE400, you must receive an S grade in both the Questions section and the Problem/Project section."
+    },
+    {
+        "question": "How should I write the IE400 report?",
+        "answer": "The report should be written based on the IE400 manuals. You should answer the questions according to the explanations in the manual and provide sufficient analysis and explanation instead of only presenting figures or tables."
+    },
+    {
+        "question": "Are there different manuals for manufacturing and service companies?",
+        "answer": "Yes. The presentation states that there are two types of IE400 manuals: one for manufacturing and one for service companies."
+    },
+    {
+        "question": "What if I do not have enough accounting or finance data?",
+        "answer": "If you are not given sufficient accounting or finance data, you should at least explain the method used in the company. The presentation says that method-level explanation is expected in such cases."
+    },
+    {
+        "question": "Is giving only a figure or table enough in the report?",
+        "answer": "No. The presentation clearly says that for each question you must provide sufficient explanation and analysis, and that giving only a figure or table is not accepted."
+    },
+    {
+        "question": "Can I start writing the report during the internship?",
+        "answer": "Yes. The presentation states that you can start writing your report during the practice period, which is a good way to make the process easier and more accurate."
+    },
+    {
+        "question": "Can I use Grammarly before submission?",
+        "answer": "Yes. The presentation says that you can use 'google grammarly' to correct the report before submitting it."
+    },
+    {
+        "question": "In what file format should I submit the IE400 report?",
+        "answer": "You should submit the soft copy of your report as a PDF file. The presentation describes this as a docx file converted into PDF."
+    },
+    {
+        "question": "Where is the Turnitin submission for IE400?",
+        "answer": "The report should be uploaded to the IE400 Turnitin assignment on ODTUClass so that it can be checked for plagiarism."
+    },
+    {
+        "question": "What is the plagiarism limit for IE400?",
+        "answer": "The presentation states that the similarity value must be less than 20 percent."
+    },
+    {
+        "question": "Is the IE400 report checked for AI-generated content?",
+        "answer": "Yes. In addition to plagiarism control, the presentation states that the report is also checked to determine whether it is AI generated."
+    },
+    {
+        "question": "How is the questionnaire completed for IE400?",
+        "answer": "The questionnaire is completed using METU Survey, based on the information that will be provided by the SP Committee at the beginning of the semester."
+    },
+    {
+        "question": "What should I do if I am paid during IE400?",
+        "answer": "If you receive payment during your summer practice, you need to complete the Paid SP questionnaire in the IE400 course at OCW and also prepare the required supporting documents for submission."
+    },
+    {
+        "question": "What is the Paid SP questionnaire?",
+        "answer": "The Paid SP questionnaire is the form students must complete in the IE400 course on OCW if they received payment during their internship."
+    },
+    {
+        "question": "Do I need to sign the Paid SP Form?",
+        "answer": "Yes. The presentation states that you should download the Paid SP Form from the website, print it, and sign it before scanning and uploading it."
+    },
+    {
+        "question": "Do I need to upload a bank receipt for a paid internship?",
+        "answer": "Yes. You must upload a bank receipt showing that you received payment from the company."
+    },
+    {
+        "question": "In what format should I upload paid internship documents?",
+        "answer": "The presentation says that the Paid SP Form and the bank receipt should be uploaded together as a Zip file to the relevant assignment on OCW."
+    },
+    {
+        "question": "Can I do a voluntary internship in addition to IE400?",
+        "answer": "Yes. The presentation states that it is possible to do a voluntary internship for additional work experience."
+    },
+    {
+        "question": "Who is eligible for voluntary internship insurance?",
+        "answer": "The university covers insurance for voluntary summer practice after the student has completed the second year."
+    },
+    {
+        "question": "How long is voluntary internship insurance valid?",
+        "answer": "For voluntary summer practices, insurance is made for at most one month and only for one organization."
+    },
+    {
+        "question": "Do I follow the same insurance procedure for voluntary summer practice?",
+        "answer": "Yes. The presentation says that you should follow the same procedure to apply for voluntary internship insurance."
+    },
+    {
+        "question": "Where should I send questions about IE400?",
+        "answer": "You can send your questions and comments to ie-staj@metu.edu.tr. However, before sending an email, you are expected to first check the SP website and the slide set."
+    },
+    {
+        "question": "Should I check the website before emailing about IE400?",
+        "answer": "Yes. The presentation clearly advises students to first check the Summer Practice website before sending an email."
+    },
+    {
+        "question": "Can I access the IE400 slide set online?",
+        "answer": "Yes. The presentation states that the SP slide set can be reached on the SP web page, so you can review it there before contacting the committee."
     }
 ]
